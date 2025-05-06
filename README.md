@@ -1,1 +1,1 @@
-[Published Paper]([https://jhss.scholasticahq.com/article/89012-convolutional-autoencoders-combined-with-kernel-density-estimation-for-data-efficient-and-accurate-disease-detection-in-mri-scans-of-the-brain)])
+Check out my [published paper](https://jhss.scholasticahq.com/article/89012-convolutional-autoencoders-combined-with-kernel-density-estimation-for-data-efficient-and-accurate-disease-detection-in-mri-scans-of-the-brain).
